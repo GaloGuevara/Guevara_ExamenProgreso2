@@ -20,7 +20,7 @@ int main(int argc, char const *argv[])
     {
         for (int j = 0; j < 23; j++)
         {
-            Notas[i][j] = rand() % 101;
+            Notas[i][j] = rand() % 11;
         }
     }
 
