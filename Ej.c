@@ -12,6 +12,28 @@ void MayorNota(int Notas[3][23]);
 
 int main(int argc, char const *argv[])
 {
-    /* code */
+    int Notas[3][23];
+
+    srand(time(NULL));
+
+    for (int i = 0; i < 3; i++)
+    {
+        for (int j = 0; j < 23; j++)
+        {
+            Notas[i][j] = rand() % 101;
+        }
+    }
+
+    for (int i = 0; i < 3; i++)
+    {
+        for (int j = 0; j < 23; j++)
+        {
+            printf("%d\t", Notas[i][j]);
+        }
+        printf("\n");
+    }
+    puts("\n");
+
+
     return 0;
 }
