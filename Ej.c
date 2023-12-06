@@ -34,6 +34,22 @@ int main(int argc, char const *argv[])
     }
     puts("\n");
 
+    PromedioAlumno(Notas);
 
     return 0;
+}
+
+void PromedioAlumno(int Notas[3][23])
+{
+    int alumno = 0;
+    puts("Ingrese el alumno que quiere ver el promedio: ");
+    scanf("%d%*c", &alumno);
+
+    float suma = 0;
+    for (int i = 0; i < 3; i++)
+    {
+        suma += Notas[i][alumno - 1];
+    }
+
+    printf("El promedio del estudiante %d es %.2f\n", alumno, suma / 3);
 }

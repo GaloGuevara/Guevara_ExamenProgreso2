@@ -1,0 +1,29 @@
+[33mcommit fbd385fe8d6b880c05192122097aca34659f6681[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Galo Guevara <galo.guevara.torres@udla.edu.ec>
+Date:   Wed Dec 6 15:11:49 2023 -0500
+
+    \Ej.c Corrección de numeros aleatorios, donde se generan desde 0 hasta el 10
+
+[33mcommit 52d4abe953f7cb52ca4ed1a75cde453aed6ab1bd[m
+Author: Galo Guevara <galo.guevara.torres@udla.edu.ec>
+Date:   Wed Dec 6 15:11:11 2023 -0500
+
+    \Ej.c Implementación de la matriz notas con numeros aleatorios
+
+[33mcommit 8cbceca498a4b8b3a6bb4ef64e8c8abbdc748253[m
+Author: Galo Guevara <galo.guevara.torres@udla.edu.ec>
+Date:   Wed Dec 6 15:06:35 2023 -0500
+
+    \Ej.c Prototipado de las funciones a utilizar
+
+[33mcommit a43dfa26a3e0a28ba868822f5b174f666de5bf8c[m
+Author: Galo Guevara <galo.guevara.torres@udla.edu.ec>
+Date:   Wed Dec 6 15:04:36 2023 -0500
+
+    \Ej.c Redacción del enunciado del ejercicio
+
+[33mcommit e0501c90dd8c855d1c99869046c7f224dc2a90ac[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Galo Guevara <146301733+GaloGuevara@users.noreply.github.com>
+Date:   Wed Dec 6 15:02:31 2023 -0500
+
+    Initial commit
