@@ -2,3 +2,16 @@
 1- Obtener el promedio de calificaciones de cada alumno durante el semeste.
 2- La nota promedio del grupo de estudiantes para cada progreso
 3- El alumno que obtuvo el mayor promedio de calificación durante el semestre*/
+#include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
+
+void PromedioAlumno(int Notas[3][23]);
+void NotaPromedio(int Notas[3][23]);
+void MayorNota(int Notas[3][23]);
+
+int main(int argc, char const *argv[])
+{
+    /* code */
+    return 0;
+}
